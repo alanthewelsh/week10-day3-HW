@@ -1,7 +1,6 @@
 {
   "name": "array_tasks",
   "version": "1.0.0",
-  "description": "",
   "main": "tests.js",
   "scripts": {
     "test": "mocha tests.js"
@@ -11,5 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "mocha": "^3.2.0"
-  }
+  },
+  "description": ""
 }
